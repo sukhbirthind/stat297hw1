@@ -48,4 +48,3 @@ This homework is all about dogs. there is a heat wave. we are cooking. Perfect .
 | policy        | 12           | 
 |               |               | 
 +---------------+---------------+
-
