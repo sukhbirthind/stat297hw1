@@ -2,15 +2,50 @@
 title: "Homework1"
 author: "J and S"
 date: July 2, 2019
-output: html_document
+output:
+   html_document:
+      theme: cerulean
+      highlight: tango
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Introduction
+short summary
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Group Members
+
+Jeiran 
 
 
-hello
+![***Me on Mondays***](https://www.petmd.com/sites/default/files/Acute-Dog-Diarrhea-47066074.jpg)
+
+
+
+> C'est la vie
+
+
+
+
+Sukh
+
+![I like dogs](https://thenypost.files.wordpress.com/2018/10/102318-dogs-color-determine-disesases-life.jpg?quality=90&strip=all&w=1236&h=820&crop=1)
+
+> Life is beautiful
+
+## **Paragraph **
+
+This homework is all about dogs. there is a heat wave. we are cooking. Perfect . 
+
++---------------+---------------+
+| Classes       | Time          |    
++===============+===============+
+| R intro       | 9:15         | 
+|               |               | 
++---------------+---------------+
+| policy        | 12           | 
+|               |               | 
++---------------+---------------+
+
