@@ -1,0 +1,13 @@
+---
+title: "Homework1"
+author: "J and S"
+date: July 2, 2019
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
